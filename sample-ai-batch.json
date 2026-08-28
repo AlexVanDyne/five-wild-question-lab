@@ -1,0 +1,24 @@
+[
+  {
+    "factId": "f-shortest-war",
+    "prompt": "Which war between Britain and the Zanzibar Sultanate lasted less than an hour?",
+    "canonicalAnswer": "The Anglo-Zanzibar War",
+    "aliases": ["Anglo Zanzibar War"],
+    "category": "History",
+    "targetDifficulty": 3,
+    "generatedStyle": "Contextual clue",
+    "model": "example-model",
+    "promptVersion": "pilot-grounded-v1"
+  },
+  {
+    "factId": "f-photosynthesis",
+    "prompt": "Plants release oxygen during photosynthesis, but which gas do they take in?",
+    "canonicalAnswer": "Carbon dioxide",
+    "aliases": ["CO2", "CO₂"],
+    "category": "Science",
+    "targetDifficulty": 1,
+    "generatedStyle": "Contrast clue",
+    "model": "example-model",
+    "promptVersion": "pilot-grounded-v1"
+  }
+]
